@@ -5,3 +5,4 @@ Notes and usage details for whatsapp-claude-plugin.
 - add a note about the defaults
 - link the usage section
 - add a note about the defaults
+- link the usage section
