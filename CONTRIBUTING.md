@@ -10,3 +10,4 @@ Notes and usage details for whatsapp-claude-plugin.
 - link the usage section
 - clarify the setup steps
 - clarify the setup steps
+- clarify the setup steps
