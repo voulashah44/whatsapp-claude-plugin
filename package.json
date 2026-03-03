@@ -1,6 +1,6 @@
 {
   "name": "whatsapp-claude-plugin",
-  "version": "0.1.30",
+  "version": "0.1.31",
   "description": "Claude Code WhatsApp channel plugin \u2014 run AI directly from WhatsApp, voice transcription, remote tool approval, access control. No API keys, no Docker, just a linked device.",
   "main": "src/index.ts",
   "scripts": {
